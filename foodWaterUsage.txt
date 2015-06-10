@@ -1,0 +1,193 @@
+11,"flour",2217
+14,"bread,breadcrumbs,pita,pitas,panko",1928
+17,"pasta,spaghetti,penne,noodles,ravioli,tortellini",2217
+20,"kasha",2440
+29,"gluten",5022
+35,"brown rice",1890
+38,"rice",2100
+44,"rice flour",2285
+56,"barley",1808
+65,"beer",272
+68,"corn,maize",761
+74,"corn flour",782
+77,"corn meal,polenta,grits",674
+80,"corn kernels",820
+83,"corn starch",1042
+89,"corn oil",1606
+95,"rye flour",4405
+104,"oatmeal,oats",2870
+110,"millet",3374
+116,"buckwheat groats,kasha",4003
+119,"quinoa",4512
+152,"wheat germ",2860
+155,"potatoes, potato",398
+164,"potato flour",1991
+170,"potato starch",2095
+173,"sweet potatoes,yams",890
+176,"cassava,manioc",563
+182,"cassava flour,manioc flour",1878
+194,"taro,poi",1032
+200,"beets,salsifry,celeriac,radishes,radish,turnips,parsnips,daikon",385
+212,"sugar cane",212
+218,"sugar,brown sugar",1804
+224,"maple syrup",1804
+239,"molasses",533
+257,"beans",7785
+260,"kidney beans",7785
+263,"dried beans",7785
+269,"fava beans,broad beans",2018
+272,"peas",5946
+275,"chickpeas, chickpea",10157
+278,"cowpeas,black-eyed peas",10752
+281,"pidgeon peas",5494
+284,"lentils",9518
+296,"dal,mung beans,mung dal,urad dal,black lentils",3117
+305,"cashews,cashew nuts",14218
+308,"chestnuts",2750
+314,"almonds",13055
+320,"walnuts",12397
+323,"pistachios",3453
+332,"hazelnuts,filberts",16744
+338,"nuts",8469
+341,"soy beans,soyabeans,soya beans",1662
+344,"soy sauce,soya sauce",475
+350,"bean curd,tofu",1956
+353,"soy milk",2916
+356,"soy burger,veggie burger,garden burger",2916
+359,"soy bean flour",1956
+365,"soy-bean oil",3248
+374,"raw peanuts",2419
+380,"peanut oil",4581
+392,"coconut",1256
+398,"coconut oil",4491
+419,"palm oil",4970
+431,"olives",1074
+440,"olive oil",5247
+452,"sunflower seeds",3640
+458,"sunflower-seed oil,sunflower oil,canola oil,safflower oil,neutral oil,vegetable oil",7344
+479,"sesame seeds",9372
+482,"sesame oil",21793
+488,"poppy seeds",2187
+509,"cotton-seed oil",3173
+563,"cabbage,kohlrabi,kale,swisschard,beet greens,collard greens,collards,mustard greens,turnip greens,greens",302
+566,"artichokes,artichoke",790
+569,"asparagus",2713
+572,"lettuce,escarole,endive,chicory,arugula",113
+578,"spinach",185
+584,"tomatoes,tomato",127
+587,"tomato juice",636
+590,"tomato paste",508
+593,"ketchup",317
+596,"tomato puree,smashed tomatos",423
+599,"peeled tomatoes",159
+602,"dried tomoatos",2541
+608,"cauliflower,broccoli,broccolini,broccoli rabe",326
+611,"brussels sprouts",326
+614,"pumpkin,squash,squash,squash,squash,kabocha,spaghetti squash,squash,zucchini,bitter melon,courgettes,courgette,zucchinis",256
+617,"cucumbers,cucumber",423
+620,"pickles,gherkins",423
+623,"eggplants,eggplant,aubergine,aubergines",226
+626,"peppers,bell peppers,bell pepper,chile pepper,chile peppers,anaheim,hatch,jalapeno,fresh chile,fresh chiles,pimento",250
+629,"onion,onions,shallot,shallots,scallion,scallions,leek,leeks",271
+638,"garlic,cloves garlic,garlic cloves,cloves of garlic",379
+641,"garlic powder",1459
+644,"beans",748
+650,"peas",524
+653,"frozen peas",750
+656,"string beans,green beans,long beans",627
+659,"carrots,carrot,turnips,turnip,parsnips,parsnip",124
+662,"celery",124
+665,"okra",1036
+671,"frozen corn",533
+677,"vegetables",109
+680,"frozen vegetables",154
+695,"bananas,banana,plantain,plantains",763
+704,"oranges",331
+707,"orange juice,lemon juice,lime juice,juice lemon,juice lime",603
+713,"tangerines,mandarines,satsumas,clementines,tangelos",455
+716,"lemons,limes,lime,lemon",348
+719,"grapefruit,grapefruits",303
+722,"grapefruit juice",404
+734,"fruit juice",418
+740,"apples",446
+746,"apple juice",621
+749,"pears,quinces",360
+752,"fresh apricots,apricots",992
+755,"dried apricots",3423
+758,"sour cherries",1395
+761,"cherries,fresh cherries",1632
+767,"peaches,nectarines,fresh peaches",626
+770,"plums",909
+773,"prunes",2598
+779,"dried fruit",2053
+785,"strawberries",165
+794,"raspberries,blackberries,mulberries,loganberries,marionberries",563
+800,"gooseberries",526
+806,"currants",499
+809,"blueberries",753
+812,"cranberries",283
+815,"berries",655
+818,"grapes",417
+821,"raisins",1666
+824,"grape juice",555
+827,"wine,champagne",595
+839,"vermouth",595
+845,"cider,mead",595
+848,"brandy,sherry",595
+851,"watermelon",239
+854,"melon,cantaloupe",182
+857,"figs",1212
+860,"guavas,mangos",3806
+863,"avocado",1209
+866,"pineapple",187
+869,"pineapple juice",934
+872,"dates",474
+878,"kiwis,kiwi fruit",787
+881,"papaya",474
+884,"fruit",1827
+890,"dried fruit",2224
+899,"coffee",18695
+920,"cocoa powder",15636
+923,"chocolate",17196
+929,"tea",8856
+932,"green tea",8856
+953,"pepper,peppercorns",7611
+954,"pepper flakes,dried peppers,dried chile peppers,dried chile pepper,dried pepper,cayanne pepper,crushed red pepper,paprika",7365
+968,"cinnamon",15526
+971,"cloves",61205
+974,"nutmeg,mace,cardamon",34320
+977,"anise seed",8280
+980,"cumin,coriander seed,coriander",8280
+983,"ginger",302
+986,"turmeric",302
+989,"curry",302
+992,"spices,allspice,cardamom",3367
+998,"mint,herbs,bay leaf,bay leavesr,rosemary,basil,oregano,cilantro,parsley,thyme,sage,marjoram,tarragon,chives",288
+45,"chuck steak,chuck roast,prime rib,rib-eye,short ribs,shank,t-bone,t-bone steak,porterhouse steak,steak",10073
+48,"beef,tenderloin,brisket,round steak,flank,flank steak,sirloin,sirloin steak,strip steak,filet mignon",14191
+63,"pork shoulder",5221
+75,"pork,pork ribs,backribs,pork rib,pork loin,pork tenderloin,pork filet,pork sirloin,pork roast,pork chop,boston butt,pork steak,pulled pork",5508
+87,"mutton,lamb",11307
+111,"tongue",24652
+114,"liver",7261
+135,"lard",2218
+138,"ham,capicola,prosciutto,jamon,smoked pork",5333
+141,"bacon",5625
+144,"sausage,bratwurst,chorizo,hot dog,kielbasa,knockwurst,linguica,pepperoni,frankfurter,salami,bologna,mortadella,coppa,headcheese,liverwurst,pate",5737
+147,"pastrami",21909
+150,"skim milk,1% milk,fat-free milk",796
+153,"milk,2% milk",822
+162,"milk powder,powdered milk",3697
+168,"cream,half-and-half",1479
+174,"yogurt,yoghurt,labneh",924
+177,"buttermilk",1245
+186,"butter",4326
+189,"cottage cheese,cheese curds,curds,ricotta,farmer's cheese,farmers cheese,cream cheese,goat cheese,mascarpone,mozzarella,feta,cotija,fresh cheese,queso fresco,queso blanco,halloumi,paneer,fromage blanc,panella,chevre",2475
+192,"grated cheese,parmesian,romano,asiago,pecorino",3945
+195,"processed cheese,velveeta",3945
+198,"blue cheese,gorganzola,stilton,roquefort,bleu,cabrales,maytag",3945
+202,"cheese,cheddar,provolone,monterey jack",3945
+204,"egg,eggs",1566
+210,"egg yoke,egg yokes",1571
+228,"turkey",2218
+231,"chicken,duck,goose,guinea fowl,quail,cornish game",2218
